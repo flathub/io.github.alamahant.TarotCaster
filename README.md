@@ -2,8 +2,6 @@
 
 An AI-powered tarot reading application built with Qt that combines traditional tarot wisdom with modern artificial intelligence.
 
-![TarotCaster Screenshot](screenshots/Screenshot8.png)
-
 ## Features
 
 - **Multiple Tarot Decks Support**: Includes the classic Rider-Waite deck with support for adding your own custom decks
@@ -22,19 +20,15 @@ An AI-powered tarot reading application built with Qt that combines traditional 
 
 ## Installation
 
-### Flatpak (Coming Soon)
+### Flatpak
+
 ```bash
 flatpak install io.github.alamahant.TarotCaster
 ```
 
 ### From Source
-```bash
-git clone https://github.com/alamahant/TarotCaster.git
-cd TarotCaster
-mkdir build && cd build
-cmake ..
-make
-```
+
+For detailed build instructions, please visit the [main project repository](https://github.com/alamahant/TarotCaster).
 
 ## Using AI Interpretations
 
@@ -50,19 +44,16 @@ The free tier of Mistral AI provides sufficient requests for personal tarot read
 
 You can add your own tarot decks to TarotCaster:
 
-1. Create a folder with your deck name in the `decks` directory
-2. Name your card images according to the following convention:
--->Detailed instructions for custom deck creation will be provided in the wiki.
+1. Create a folder with your deck name in the decks directory
+2. Name your card images according to the required convention
 3. Restart the application to see your new deck
 
+For detailed instructions on custom deck creation, please visit the [main project repository](https://github.com/alamahant/TarotCaster).
 
 ## Dependencies
 
 ### For Flatpak Users
 No additional dependencies required - everything is included in the Flatpak package.
-
-### For Users Building from Source
-
 
 ## Credits and Licensing
 
@@ -76,9 +67,7 @@ No additional dependencies required - everything is included in the Flatpak pack
 - AI interpretations powered by Mistral AI
 
 ## License
-
 GPL-3.0 - See the LICENSE file for details
 
 ## Contributing
-
 Contributions are welcome! Please feel free to submit a Pull Request.
