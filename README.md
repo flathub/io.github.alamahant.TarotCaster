@@ -62,26 +62,7 @@ You can add your own tarot decks to TarotCaster:
 No additional dependencies required - everything is included in the Flatpak package.
 
 ### For Users Building from Source
-- Qt 6.8 or higher
-- CMake 3.16 or higher
-- OpenGL libraries
-- X11 development libraries
-- Standard build tools (gcc/g++, make)
 
-On Ubuntu/Debian-based systems:
-```bash
-sudo apt install build-essential cmake libgl1-mesa-dev libx11-dev libxkbcommon-dev libfontconfig1-dev
-# Qt 6.8 may need to be installed separately
-```
-
-On Fedora/RHEL-based systems:
-```bash
-sudo dnf install cmake gcc-c++ mesa-libGL-devel libX11-devel libxkbcommon-devel fontconfig-devel
-# Qt 6.8 may need to be installed separately
-```
-
-### For Users Running the Binary Directly
-The application requires Qt 6.8 libraries to be installed on your system. Most modern Linux distributions will have the other required dependencies already installed.
 
 ## Credits and Licensing
 
