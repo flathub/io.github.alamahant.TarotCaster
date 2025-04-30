@@ -1,6 +1,6 @@
 # Changelog
 
-## [1.1] - 2025-04-29
+## [1.1.0] - 2025-04-29
 
 ### New Content
 - Added the classic Tarot of Marseilles deck, sourced from Wikimedia Commons [View on Wikimedia](https://commons.wikimedia.org/wiki/Category:Tarot_de_Marseille_(Single_Cards))
@@ -33,6 +33,6 @@
 - Resolved issue where saved readings would display cards face-down upon loading
 - Fixed various minor UI inconsistencies and layout issues
 
-## [1.0] - 2025-04-09
+## [1.0.1] - 2025-04-09
 
 - Initial release
