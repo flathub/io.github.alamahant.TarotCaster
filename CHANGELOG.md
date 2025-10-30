@@ -1,7 +1,7 @@
 # Changelog
 
 ## [1.2.2] - 2025-10-29
-NOTE:Performing a rebuild on top of the update because of merge error : Job 425753 - Publish: Broken
+
 ### Technical Updates
 - **Updated KDE Runtime**:
   - Upgraded KDE Flatpak runtime to version 6.9 for improved performance and compatibility
