@@ -15,5 +15,5 @@ modules:
     sources:
       - type: git
         url: https://github.com/alamahant/TarotCaster.git
-        tag: v1.2.5
-        commit: 4e09904b0e73de2571fa6e0c88e85e41e0121141
+        tag: v1.2.6
+        commit: 3ea6059c811f3c3fb397660195545d458c640cd3
