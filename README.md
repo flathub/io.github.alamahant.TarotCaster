@@ -1,8 +1,15 @@
 # TarotCaster
 
+![TarotCaster Screenshot](screenshots/Screenshot8.png)
+
 An AI-powered tarot reading application built with Qt that combines traditional tarot wisdom with modern artificial intelligence.
 
-![TarotCaster Screenshot](screenshots/Screenshot8.png)
+## Download Options
+
+| Platform | Where to Get It |
+| :--- | :--- |
+| **Linux** | [Flathub](https://flathub.org/en/apps/search?q=alamahant) |
+| **Windows and Mac** | [Buy on Gumroad](https://jnanadhakini.gumroad.com/) - Pre-compiled binary, no compilation needed |
 
 ## Features
 
